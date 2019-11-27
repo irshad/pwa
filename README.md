@@ -51,9 +51,9 @@ And also connect it in your `index.html` in order to work.
 
 Service Worker is the background script which the browser can run while the user is not on the page. It is the element that gives the offline support and gets active when the notification is pushed.
 
-  # Create a Service Worker (create a file with name SW.js)
+  <b>Create a Service Worker (create a file with name SW.js),</b>
 
-Copy this code in a new file and then save it as SW.js.
+Copy this code in a new file and then save it as `SW.js`.
 
 `/** An empty service worker! */
 self.addEventListener('fetch', function(event) {
