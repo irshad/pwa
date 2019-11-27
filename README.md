@@ -56,7 +56,9 @@ Service Worker is the background script which the browser can run while the user
 Copy this code in a new file and then save it as `SW.js`.
 
 `/** An empty service worker! */
+
 self.addEventListener('fetch', function(event) {
+
 });`
 And that’s it.
 
@@ -65,8 +67,11 @@ And that’s it.
 You will have to register the code in your website’s code, for that, open up your `App.js` file and paste this Now, 
 
 `navigator.serviceWorker && 
+
 navigator.serviceWorker.register('SW.js').then(function (registration)
+
  {
+ 
  });`
  
 the code will get executed on every single page load. Check if its working properly by reloading the page and then checking – chrome://serviceworker-internals/
