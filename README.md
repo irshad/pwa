@@ -81,9 +81,9 @@ Try out how it’s working now. Uninstall the present app and load it on Chrome.
 For abiding by the rule that when Service Worker changes, the page should reload and reinstall it, all you will have to do is add a component which has the ‘version’ of the service worker. When that changes, the install movement happens again, caching the resources that would have changed.
 
 Congratulations, you now know how to turn the website into Progressive Web App and if you followed the steps side-by-side, you have now even migrated your website into a Progressive Web App!
-
+```
 Disclaimer: While these steps will give you, the developer, an exact idea of how you will have to fill in the blanks and move from Point A in the process to Point C, if you are reading this as an enthusiastic entrepreneur who wishes to take charge of the migration, I would say, don’t do it without a person who excels in knowing how to turn website into progressive Web App.
-
+```
 While these steps are explanatory, there are a number of elements that come up as part of the process when you sit with the actual development process. So, instead of trying your hands with the steps and finding a different result because you weren’t sure of the between the line elements, give the job to the Progressive Web Apps experts who specialize in the domain.
 
 
