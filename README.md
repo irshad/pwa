@@ -4,7 +4,7 @@
 # What is a PWA
 Progressive Web Apps are user experiences that have the reach of the web, and are:
 
-*Reliable - Load instantly and never show the downasaur, even in uncertain network conditions.
+*Reliable* - Load instantly and never show the downasaur, even in uncertain network conditions.
 
 *Fast - Respond quickly to user interactions with silky smooth animations and no janky scrolling.
 
