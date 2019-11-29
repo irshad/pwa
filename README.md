@@ -1,14 +1,14 @@
-## How To Create a PWA
+## How To Create a PWA!
 ![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
 
-# What is a PWA
+# What is a PWA?
 Progressive Web Apps are user experiences that have the reach of the web, and are:
 
-*Reliable* - Load instantly and never show the downasaur, even in uncertain network conditions.
+*<b>Reliable</b> - Load instantly and never show the downasaur, even in uncertain network conditions.*
 
-*Fast - Respond quickly to user interactions with silky smooth animations and no janky scrolling.
+*<b>Fast</b> - Respond quickly to user interactions with silky smooth animations and no janky scrolling.*
 
-*Engaging - Feel like a natural app on the device, with an immersive user experience.
+*<b>Engaging</b> - Feel like a natural app on the device, with an immersive user experience.*
 
 This new level of quality allows Progressive Web Apps to earn a place on the user's home screen.
 
