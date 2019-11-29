@@ -1,6 +1,15 @@
 ## How To Create a PWA
 ![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
 
+# What is a PWA
+Progressive Web Apps are user experiences that have the reach of the web, and are:
+
+*Reliable - Load instantly and never show the downasaur, even in uncertain network conditions.
+*Fast - Respond quickly to user interactions with silky smooth animations and no janky scrolling.
+*Engaging - Feel like a natural app on the device, with an immersive user experience.
+
+This new level of quality allows Progressive Web Apps to earn a place on the user's home screen.
+
 # 1. Create a manifest.json file
 
 Manifest is a simple JSON file that tells the browser about your web application and how it should behave when 'installed' on the user's mobile device or desktop. Having a manifest is required by Chrome to show the Add to Home Screen prompt.
