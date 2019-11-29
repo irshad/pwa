@@ -1,15 +1,6 @@
 ## How To Create a PWA
 ![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
 
-
-# #.View the Site on your Mobile
-
-In case you have Android device plugged in with your desktop, type in this in your URL – chrome://inspect. This will let you set a port forward with the help of port that you wrote before to the same port on the device/
-
-Press Enter for this to save.
-
-Now you will be able to access the basic version of your website at – http://localhost:8887/ on the connected Android phone.
-
 # 1. Create a manifest.json file
 
 Manifest is a simple JSON file that tells the browser about your web application and how it should behave when 'installed' on the user's mobile device or desktop. Having a manifest is required by Chrome to show the Add to Home Screen prompt.
