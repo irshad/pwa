@@ -79,8 +79,10 @@ Congratulations, you now know how to turn the website into Progressive Web App a
  While these steps will give you, the developer, an exact idea of how you will have to fill in the blanks and move from Point A in the process to Point C, if you are reading this as an enthusiastic entrepreneur who wishes to take charge of the migration, I would say, don’t do it without a person who excels in knowing how to turn website into progressive Web App.
 ```
 While these steps are explanatory, there are a number of elements that come up as part of the process when you sit with the actual development process. So, instead of trying your hands with the steps and finding a different result because you weren’t sure of the between the line elements, give the job to the Progressive Web Apps experts who specialize in the domain.
-
+# Get More Infomation By Google
+https://developers.google.com/web/progressive-web-apps
 
 # Hope you like this post
 
-## irshad ali <a herf="https://irshadali.site"target="_blank"> Visit Me </a>
+## irshad ali 
+<a herf="https://irshadali.site" target="_blank"> Visit Me </a>
