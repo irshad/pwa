@@ -18,7 +18,7 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 Service workers (client-side proxies that pre-cache key resources) enable PWAs to load instantly and provide an instant,
 reliable experience for users, regardless of the network state.
 
-Create a new <b>worker.js</b>  file in the public folder <b>(public/worker.js)</b> and add the following code:
+Create a new `worker.js`  file in the public folder <b>(public/worker.js)</b> and add the following code:
 ```
 Let CACHE_NAME = 'your-app-name';
 Let urlsToCache = [
@@ -71,7 +71,7 @@ self.addEventListener('activate', event => {
 ```
 ## Note! from above code replace (your-app-name) with your app name
 # 2. Now Update HTML
-Update your <b>index.html</b> file in the public folder <b>(public/index.html)</b> 
+Update your `index.html` file in the public folder <b>(public/index.html)</b> 
 to check if the client’s browser supports service workers. Just Add below code inside the body tag of your app's <b>(public/index.html)</b>
 ```
 <script>
@@ -92,9 +92,9 @@ to check if the client’s browser supports service workers. Just Add below code
 ```
 # 3. Activating ServiceWorker
 
-## Now go to your app's (index.js) in the src folder (src/index.js)
+## Now go to your app's `index.js` in the src folder (src/index.js)
 
-Now Update <b>serviceWorker.unregister() to serviceWorker.register()<b/>  Like Below Code At Last Line
+Now Update `serviceWorker.unregister() to serviceWorker.register()`  Like Below Code At Last Line
   
 ```
 import React from 'react';
