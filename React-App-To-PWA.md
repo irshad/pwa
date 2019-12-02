@@ -91,8 +91,10 @@ to check if the client’s browser supports service workers. Just Add below code
     </script>
 ```
 # 3. Activating ServiceWorker
+
 ## Now go to your app's (index.js) in the src folder (src/index.js)
-Now Update <b>serviceWorker.unregister() to serviceWorker.register()<b/>  Like Below Code At Last Line <br>
+
+Now Update <b>serviceWorker.unregister() to serviceWorker.register()<b/>  Like Below Code At Last Line
   
 ```
 import React from 'react';
