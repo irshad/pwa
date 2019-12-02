@@ -1,6 +1,6 @@
 ## Convert React App into a Progressive Web App (PWA)
 
-![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")          ![ReactJs](https://res.cloudinary.com/prvnbist/image/upload/c_scale,h_80/v1564054850/React.js_logo-512_bvpygm.png "ReactJs")
+![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")   <--TO-->  ![ReactJs](https://res.cloudinary.com/prvnbist/image/upload/c_scale,h_80/v1564054850/React.js_logo-512_bvpygm.png "ReactJs")
 
 # What is a PWA?
 Progressive Web Apps are user experiences that have the reach of the web, and are:
@@ -92,8 +92,7 @@ to check if the client’s browser supports service workers. Just Add below code
 ```
 # 3. Activating ServiceWorker
 ## Now go to your app's (index.js) in the src folder (src/index.js)
-
-Now Update <b> serviceWorker.unregister() to serviceWorker.register(). <b/> Like Below Code.
+Now Update <b>serviceWorker.unregister() to serviceWorker.register().<b/> Like Below Code At Last Line.
 ```
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -145,6 +144,9 @@ A typical manifest file includes information about the app name, icons it should
 ```
 
 # That's it 🎉 Congratulations, you just created a working progressive web app!
+
+## This Is "irshad ali" 
+Check me out: https://www.irshadali.site
 
 
 
