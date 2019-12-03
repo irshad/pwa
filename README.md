@@ -1,5 +1,5 @@
-![PWA](https://developers.google.com/web/progressive-web-apps/images/pwa-reliable_720.png "PWA")      
 ## This repostory is about "Progressive Web Apps" 
+![PWA](https://developers.google.com/web/progressive-web-apps/images/pwa-reliable_720.png "PWA")      
 
 # Why build a Progressive Web App?
 Building a high-quality Progressive Web App has incredible benefits, making it easy to delight your users, grow engagement and increase conversions.
@@ -12,5 +12,10 @@ Web push notifications helped eXtra Electronics increase engagement by 4X. And t
 # Improved conversions
 The ability to deliver an amazing user experience helped AliExpress improve conversions for new users across all browsers by 104% and on iOS by 82%.
 
-## And Learn How to create them in simpel way.
+## And Learn How to create them in simple way.
+
+By me | 👋 I'm Irshad Ali
+👨‍💻 Front-End-Developer based in Hyderabad, India. With a passion for creating new ideas and beautiful functional websites with a strong understanding of development. 
+# Visit Me:
+https://www.irshadali.site
 
