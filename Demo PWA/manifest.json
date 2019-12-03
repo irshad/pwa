@@ -1,11 +1,11 @@
 {
-    "name": "JavaScript",
-    "short_name": "JavaScript PWA",
+    "name": "Developer RoadMap",
+    "short_name": "Developer RoadMap",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#343a40",
-    "theme_color": "#f1f3f4" ,
-    "description": "JavaScript PWA demo.",
+    "theme_color": "#343a40" ,
+    "description": "Developer RoadMap for Font-End & Back-End.",
     "icons": [
       {
         "src": "img/logo512x512.png",
