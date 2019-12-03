@@ -14,8 +14,11 @@ The ability to deliver an amazing user experience helped AliExpress improve conv
 
 ## And Learn How to create them in simple way.
 
-By me | 👋 I'm Irshad Ali
+By me 👋 I'm Irshad Ali
 👨‍💻 Front-End-Developer based in Hyderabad, India. With a passion for creating new ideas and beautiful functional websites with a strong understanding of development. 
+
+### For Full Series You Stay At Dev.to Also At:
+https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb
 # Visit Me:
 https://www.irshadali.site
 
