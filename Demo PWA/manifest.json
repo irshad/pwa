@@ -1,0 +1,27 @@
+{
+    "name": "JavaScript",
+    "short_name": "JavaScript PWA",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#343a40",
+    "theme_color": "#f1f3f4" ,
+    "description": "JavaScript PWA demo.",
+    "icons": [
+      {
+        "src": "img/logo512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "img/logo192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "img/logo96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }
+    ]
+  }
+  
