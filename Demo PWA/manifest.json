@@ -1,11 +1,11 @@
 {
-    "name": "Developer RoadMap",
-    "short_name": "Developer RoadMap",
+    "name": "Demo PWA",
+    "short_name": "Demo PWA",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#343a40",
     "theme_color": "#343a40" ,
-    "description": "Developer RoadMap for Font-End & Back-End.",
+    "description": "Just A Demo PWA",
     "icons": [
       {
         "src": "img/logo512x512.png",

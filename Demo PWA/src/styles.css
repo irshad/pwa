@@ -4,15 +4,15 @@ body{
 h1{
     text-align: center;
     color:#343a40 ;
-    font-size: 50px;
+    font-size: 60px;
 }
-h4{
+h3{
     text-align: center;
     color:#343a40 ;
+    font-size: 30px;
 }
 a{
-    text-decoration: none;
-    color: #4235d6;
+    color: #343a40;
 }
 .center {
     display: block;
@@ -20,7 +20,8 @@ a{
     margin-right: auto;
     width: 95%;
   }
-
   img{
-    zoom: 150%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
   }
