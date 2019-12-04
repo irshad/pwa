@@ -21,7 +21,7 @@ By me 👋 I'm Irshad Ali
 👨‍💻 Front-End-Developer based in Hyderabad, India. With a passion for creating new ideas and beautiful functional websites with a strong understanding of development. 
 
 ### For Full Series You Can Visit At Dev.to/Phonerefer or ⤵️ :
-https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb
+#### https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb
 ## Visit Me:
-https://www.irshadali.site
+#### https://www.irshadali.site
 
