@@ -20,6 +20,8 @@ https://pwa-demo-site.netlify.com
 By me 👋 I'm Irshad Ali
 👨‍💻 Front-End-Developer based in Hyderabad, India. With a passion for creating new ideas and beautiful functional websites with a strong understanding of development. 
 
+1. [Static-Website-To-PWA.md](Convert Static Website To PWA)
+
 ### For Full Series You Can Visit At Dev.to/Phonerefer or ⤵️ :
 https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb
 ## Visit Me:
