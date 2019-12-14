@@ -19,7 +19,7 @@ styling.
 ### CSS & CSS Pre-processors
 Whilst the process of using vanilla CSS or a CSS pre-processor is the same in React, there are a couple of notable differences. When applying
 classes to elements, we use the 'className' syntax rather then 'class'. We also link our stylesheet using the @import syntax.
-#### For CSS
+### For CSS
 ```
 import React from 'react'
 import './App.css'
