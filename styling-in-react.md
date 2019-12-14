@@ -1,4 +1,5 @@
 # Styling in React JS
+![React](https://miro.medium.com/max/2878/1*HlBSACT5fsxhcgMFLT31Wg.png)
 
 ## Inline Styling
 
@@ -72,4 +73,4 @@ const Title = styled,h1`
     Heloo World!
   </Title>
 ```
-  #### Thank's To @TheTraveling.Dev
+#### Thank's To @TheTraveling.Dev
