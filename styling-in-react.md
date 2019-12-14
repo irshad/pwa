@@ -66,9 +66,10 @@ const Title = styled,h1`
   `;
   
   **//IN COMPONENT**
-  ```
+```  
+```
   <Title>
     Heloo World!
   </Title>
-  ```
+```
   #### Thank's To @TheTraveling.Dev
