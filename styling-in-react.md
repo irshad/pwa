@@ -1,5 +1,5 @@
 # Styling in React JS
-![React](https://miro.medium.com/max/2878/1*HlBSACT5fsxhcgMFLT31Wg.png)
+![React](https://www.valuecoders.com/blog/wp-content/uploads/2016/08/react-1024x576.png)
 
 ## Inline Styling
 
