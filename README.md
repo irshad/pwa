@@ -38,7 +38,7 @@ By me 👋 I'm Irshad Ali
 ## License & Copyright
   
  © K IRSHAD ALI, PhoneRefer Media Inc <br> 
- Licensed under the  [MIT License](LICENSE) 
+ Licensed under the  [**MIT License**](LICENSE) 
  
 
  ![License](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_150/v1575520731/ruff/lgiktt3ezby86zk0413u.png "License")
