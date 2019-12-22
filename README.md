@@ -24,7 +24,7 @@ The app should keep the users engaged. A PWA provides features like push notific
 ## And Learn How to create them in simple way.
 
 By me 👋 I'm Irshad Ali
-👨‍💻 Front-End-Developer based in Hyderabad, India. With a passion for creating new ideas and beautiful functional websites with a strong understanding of development. 
+👨‍💻 from below links ⤵️ 
 
 ### List To Read
 2. [**Convet Static Website To PWA**](https://github.com/phonerefer/pwa/blob/master/Static-Website-To-PWA.md)
