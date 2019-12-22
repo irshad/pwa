@@ -27,7 +27,7 @@ By me 👋 I'm Irshad Ali
 ### For Full Series You Can Visit At Dev.to/Phonerefer or ⤵️ :
 3. [**Dev.to**](https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb)
 ## Visit Me:
-https://www.irshadali.site
+4. [**Irshad Ali**](https://www.irshadali.site)
 
 ## License & Copyright
   
