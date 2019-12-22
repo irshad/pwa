@@ -13,7 +13,7 @@ Web push notifications helped eXtra Electronics increase engagement by 4X. And t
 The ability to deliver an amazing user experience helped AliExpress improve conversions for new users across all browsers by 104% and on iOS by 82%.
 
 # Take A Look At The Demo PWA:
-https://pwa-demo-site.netlify.com
+1.[**Demo**](https://pwa-demo-site.netlify.com)
 
 ## And Learn How to create them in simple way.
 
@@ -21,13 +21,13 @@ By me 👋 I'm Irshad Ali
 👨‍💻 Front-End-Developer based in Hyderabad, India. With a passion for creating new ideas and beautiful functional websites with a strong understanding of development. 
 
 ### List To Read
-1. [**Convet Static Website To PWA**](https://github.com/phonerefer/pwa/blob/master/Static-Website-To-PWA.md)
-2. [**React App To PWA**](https://github.com/phonerefer/pwa/blob/master/React-App-To-PWA.md)
+2. [**Convet Static Website To PWA**](https://github.com/phonerefer/pwa/blob/master/Static-Website-To-PWA.md)
+3. [**React App To PWA**](https://github.com/phonerefer/pwa/blob/master/React-App-To-PWA.md)
 
 ### For Full Series You Can Visit At Dev.to/Phonerefer or ⤵️ :
-3. [**Dev.to**](https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb)
+4. [**Dev.to**](https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb)
 ## Visit Me:
-4. [**Irshad Ali**](https://www.irshadali.site)
+5. [**Irshad Ali**](https://www.irshadali.site)
 
 ## License & Copyright
   
