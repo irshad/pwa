@@ -21,7 +21,7 @@ The app should keep the users engaged. A PWA provides features like push notific
 That was exactly my first thought about PWA. How exactly can web apps open without the internet?
 We all know native apps can open without an internet connection because when we download and install them, critical resources like UI components and some data are stored in the device…. well, this is exactly what happens in a PWA as well.
 The PWA stores HTML files, CSS files and images in the browser cache and the developers can fully control the network call. All of these are being achieved by Service Workers.
-## What are the Technical components of a PWA?
+## Technical components of a PWA?
 ![Componets](https://miro.medium.com/max/1218/1*FzOCd-O5FDKcZDjtWDIlWQ.jpeg 'Componets')
 
 # Take A Look At The Demo PWA:
