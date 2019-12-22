@@ -17,6 +17,10 @@ If we want to make web apps closer to the native apps, they have to be installab
 PWA adds a splash screen during the startup of the app. This makes the PWA feel more like a native app.
 ### Highly engage-able
 The app should keep the users engaged. A PWA provides features like push notification, home screen icon, full-screen and offline first app to glorify user engagement.
+## How does a PWA makes websites available offline?
+That was exactly my first thought about PWA. How exactly can web apps open without the internet?
+We all know native apps can open without an internet connection because when we download and install them, critical resources like UI components and some data are stored in the device…. well, this is exactly what happens in a PWA as well.
+The PWA stores HTML files, CSS files and images in the browser cache and the developers can fully control the network call. All of these are being achieved by Service Workers.
 
 # Take A Look At The Demo PWA:
 1.[**Demo**](https://pwa-demo-site.netlify.com)
