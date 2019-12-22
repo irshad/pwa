@@ -21,7 +21,7 @@ By me 👋 I'm Irshad Ali
 👨‍💻 Front-End-Developer based in Hyderabad, India. With a passion for creating new ideas and beautiful functional websites with a strong understanding of development. 
 
 ### List To Read
-1. [**Convet Static Website To PWA**](https://github.com/phonerefer/pwa/blob/master/Static-Website-To-PWA.md)
+1. [**Convet Static Website To PWA**](Static-Website-To-PWA)
 2. [**React App To PWA**](https://github.com/phonerefer/pwa/blob/master/React-App-To-PWA.md)
 
 ### For Full Series You Can Visit At Dev.to/Phonerefer or ⤵️ :
