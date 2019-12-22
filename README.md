@@ -11,6 +11,12 @@ Service workers enabled Konga to send 63% less data for initial page loads, and 
 Web push notifications helped eXtra Electronics increase engagement by 4X. And those users spend twice as much time on the site.
 ### Improved conversions
 The ability to deliver an amazing user experience helped AliExpress improve conversions for new users across all browsers by 104% and on iOS by 82%.
+### Installable
+If we want to make web apps closer to the native apps, they have to be installable and should reside in the home screen along with other native apps, so that the user can access the PWA in one click.
+### Splash Screen
+PWA adds a splash screen during the startup of the app. This makes the PWA feel more like a native app.
+### Highly engage-able
+The app should keep the users engaged. A PWA provides features like push notification, home screen icon, full-screen and offline first app to glorify user engagement.
 
 # Take A Look At The Demo PWA:
 1.[**Demo**](https://pwa-demo-site.netlify.com)
