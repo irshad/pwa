@@ -25,7 +25,7 @@ By me 👋 I'm Irshad Ali
 2. [**React App To PWA**](https://github.com/phonerefer/pwa/blob/master/React-App-To-PWA.md)
 
 ### For Full Series You Can Visit At Dev.to/Phonerefer or ⤵️ :
-https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb
+3. [Dev.to](https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb)
 ## Visit Me:
 https://www.irshadali.site
 
