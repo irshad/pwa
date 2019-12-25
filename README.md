@@ -29,7 +29,7 @@ The PWA stores HTML files, CSS files and images in the browser cache and the dev
 
 ### And Learn How to create them in simple way.
 
-By me 👋 I'm Irshad Ali
+By me 👋 Irshad Ali
 👨‍💻 from below links ⤵️ 
 
 ### List To Read
