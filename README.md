@@ -27,7 +27,7 @@ The PWA stores HTML files, CSS files and images in the browser cache and the dev
 ## Take A Look At The Demo PWA:
 1.[**Demo**](https://pwa-demo-site.netlify.com)
 
-## And Learn How to create them in simple way.
+### And Learn How to create them in simple way.
 
 By me 👋 I'm Irshad Ali
 👨‍💻 from below links ⤵️ 
@@ -38,7 +38,7 @@ By me 👋 I'm Irshad Ali
 
 ### For Full Series You Can Visit At Dev.to/Phonerefer or ⤵️ :
 4. [**Dev.to**](https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb)
-## Visit Me:
+### Visit Me:
 5. [**Irshad Ali**](https://www.irshadali.site)
 
 ## License & Copyright
