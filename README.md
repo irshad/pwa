@@ -24,7 +24,7 @@ The PWA stores HTML files, CSS files and images in the browser cache and the dev
 ## Technical components of a PWA?
 ![Componets](https://miro.medium.com/max/1218/1*FzOCd-O5FDKcZDjtWDIlWQ.jpeg 'Componets')
 
-# Take A Look At The Demo PWA:
+## Take A Look At The Demo PWA:
 1.[**Demo**](https://pwa-demo-site.netlify.com)
 
 ## And Learn How to create them in simple way.
