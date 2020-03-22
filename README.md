@@ -36,7 +36,7 @@ By me 👋 Irshad Ali
 2. [**Convet Static Website To PWA**](https://github.com/phonerefer/pwa/blob/master/Static-Website-To-PWA.md)
 3. [**React App To PWA**](https://github.com/phonerefer/pwa/blob/master/React-App-To-PWA.md)
 
-### For Full Series You Can Visit At Dev.to/Phonerefer or ⤵️ :
+### For Full Series You Can Visit At Dev.to/Phonerefer or : ⤵️
 4. [**Dev.to**](https://dev.to/phonerefer/convert-any-static-website-to-pwa-3fkb)
 ### Visit Me:
 5. [**Irshad Ali**](https://www.irshadali.site)
